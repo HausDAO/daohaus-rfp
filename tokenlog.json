@@ -2,7 +2,7 @@
     "org": "hausdao",
     "repo": "daohaus-rfp",
     "tokenAddress": "0x34035d22130315104418b560a26e2b363e8129cf",
-    "labels": ["Bid", "RFP"],
+    "labels": ["Bid", "RFP", "Round0"],
     "votingMethod": "STANDARD",
     "chainId": 100
 }
