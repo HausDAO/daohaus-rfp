@@ -2,7 +2,7 @@
 name: RFP TEMPLATE
 about: Request for Proposal
 title: 'RFP000: Title'
-labels: ''
+labels: RFP
 assignees: ''
 
 ---
