@@ -3,6 +3,5 @@
     "repo": "daohaus-rfp",
     "labels":["Bid","Round000"],
     "tokenAddress": "0x34035d22130315104418b560a26e2b363e8129cf",
-    "votingMethod": "STANDARD",
     "chainId": 100
 }
