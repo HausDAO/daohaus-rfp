@@ -1,7 +1,7 @@
 ---
 name: Bid Template
 about: Make a new bid
-title: ''
+title: 'RFP000: BID000 $DAI $HAUS'
 labels: Bid
 assignees: ''
 
