@@ -21,7 +21,7 @@ assignees: ''
 
 ## Metrics on success
 
-## Submission Requirements
+## Submission Requirements (this section should remain in the RFP as a guide to bidders)
 - Team and Roles, monthly comp
 - Completion Date
 - Any current work or supporting links
