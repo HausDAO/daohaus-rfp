@@ -1,7 +1,7 @@
 ---
 
 name: Project Template
-about: Make a new bid
+about: Submit a new project
 title: 'PROJ000 [Name]'
 labels: Project
 assignees: ''
