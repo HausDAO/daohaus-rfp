@@ -14,12 +14,6 @@ xLink Objectives: #0
 
 <!-- A short, descriptive label identifying this project. -->
 
-### Team members
-
-<!-- Who will be contributing to this work?
-
-Optionally identify a representative or leader for the team. -->
-
 ### Desired results
 
 <!-- What outcomes, outputs, or deliverables should be the result of this project? Each should be achievable with a single Season, i.e. within 1-3 months. -->
