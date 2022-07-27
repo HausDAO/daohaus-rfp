@@ -13,7 +13,7 @@ These Objectives and their relative importance should be set by the DAO. While t
 This bottom-up, fluid, and adaptive signal of relative Objective importance creates a higher level guide for how the DAO as a collective and individual members choose to allocate their resources, time, and attention.
 
 1. DAO members nominate candidate Objectives to establish an initial list
-    - Objectives must follow the DAOhaus Objective Template
+    - Objectives must follow the [DAOhaus Objective Template](.github/ISSUE_TEMPLATE/objective-template.md)
     - Objectives are submitted as github issues, and then added to the Objectives spreadsheet
 2. DAO members are given medium term importance points in proportion to their Warcamp DAO shares, which they allocate across the Objectives on the list
     - Members should allocate their importance points according to what they currently think is most important to accomplish over the next year
@@ -37,7 +37,7 @@ This bottom-up, fluid, and adaptive signal of relative Project importance create
 
 1. Each month, DAO members nominate candidate Projects for that month
     - Projects should align with DAOhaus objectives, though this is not a strict requirement
-    - Projects must follow the Project Template
+    - Projects must follow the [Project Template](.github/ISSUE_TEMPLATE/project-template.md)
     - Projects are submitted as github issues, and then added to the Project Spreadsheet
 2. DAO members are given short term importance points in proportion to their Warcamp DAO shares, which they allocate across the Projects on the list
     - Members should allocate their importance points according to what they think is most important to work on in the coming month
@@ -53,7 +53,7 @@ This bottom-up, fluid, and adaptive signal of relative Project importance create
 ### 3. Bid Submission
 Guided by these high quality signals, contributors now bid to complete the prioritized Projects.
 
-1. Bids must follow the Bid Template, and be…
+1. Bids must follow the [Bid Template](.github/ISSUE_TEMPLATE/bid-template.md), and be…
     - Complete
     - Clear
     - Actionable
