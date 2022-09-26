@@ -3,7 +3,7 @@
 name: Project Template
 about: Submit a new project
 title: 'PROJ000 [Name]'
-labels: Project
+labels: Project, Round002
 assignees: ''
 
 ---
