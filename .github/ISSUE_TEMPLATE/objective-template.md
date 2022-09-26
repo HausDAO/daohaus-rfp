@@ -3,7 +3,7 @@
 name: Objective Template
 about: Submit a new DAOhaus Objective
 title: 'OBJ000 [Name]'
-labels: Objective, Round002
+labels: Objective Round002
 assignees: ''
 
 ---
